@@ -1,2 +1,2 @@
 # rospibots
-ROS package with robots descriptions and launch files
+Arduino Code for rospibot6
